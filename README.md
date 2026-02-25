@@ -1,4 +1,4 @@
-# About the plugins 
+# ABOUT THE PLUGINS 
 1. Gofmt.lua
   - basic formatting for go files.
   - uses go mod only works when go mod is initialized.
