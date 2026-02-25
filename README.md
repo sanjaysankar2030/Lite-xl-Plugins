@@ -9,6 +9,7 @@
   - paste the javafmt.lua in the plugins directory
   - then copy the javafmt.cmd file in the same folder where the .jar file is placed ( so that the dir need not be added to path again ).
   - Java files are formatted when the command is used . Note that the pop up might trigger proceed to give yes ( if the .java file needs to be formatted then the file is formatted if not then the file erases from the text buffer ).
+    
 3.Gruber Tsoding theme
   - This is the unofficial spinoff lua port for the gruber darker theme of [Rexim Tsoding](https://github.com/rexim/gruber-darker-theme)
   - Place it in the colors directory of the lite-xl which is usually in 
